@@ -22,9 +22,9 @@ Each method returns:
 
 We solve problems of the form:
 
-\[
+$$
 F(\beta) = \frac{1}{n}\|y - X\beta\|^2 + \lambda \|\beta\|_p^p,
-\]
+$$
 
 including the special cases:
 
